@@ -27,6 +27,13 @@
   .search-button:hover {
   background-color:#fa709a ;
   }
+  .filter-bar{
+    width: 25%;
+    padding-left: 10px;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 5px 10px #979b91;
+    }
   .recipes{
   display: flex;
   justify-content: space-around;
